@@ -1,3 +1,4 @@
+# Eduardo Yee Fragoso
 - 👋 Hi, I’m Eduardo Yee Fragoso
 - 👀 I’m interested in Robotics, Data science, Chemistry, Quantum computing
 - 🌱 I’m currently learning Python, Haskell, 
