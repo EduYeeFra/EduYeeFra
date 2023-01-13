@@ -12,7 +12,6 @@
 
 
 # 🛠️ Skills
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,matlab,octave,py,mysql,postgres,sqlite&perline=4" />
@@ -24,6 +23,9 @@
     <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,autocad,selenium,bash,linux,graphql&perline=4" />
   </a>
 </p>
+
+# 😃 + 💻 + 🧠 Projects
+
 
 # 📈Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EduYeeFra&theme=merko&mode=weekly)](https://git.io/streak-stats)
