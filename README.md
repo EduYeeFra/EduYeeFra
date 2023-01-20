@@ -29,17 +29,16 @@
 
 # 📈Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduYeeFra&theme=tokyonight&count-private=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduYeeFra&theme=merko)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EduYeeFra&theme=merko&mode=weekly)](https://git.io/streak-stats)
 
 # 📫 How to reach me ... ![Fire (1)](https://user-images.githubusercontent.com/76674158/212242952-4218f91e-247c-457c-a60b-9ad4812cff40.gif)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](yeefrae96@gmail.com)
 
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](yeefrae96@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eyeef/)
 
 <div align = "right">
-  
        <img src="https://komarev.com/ghpvc/?username=EduYeeFra&style=flat-square&color=blue" alt=""/>
 </div>
 
