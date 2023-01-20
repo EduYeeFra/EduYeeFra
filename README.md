@@ -29,7 +29,7 @@
 
 # 📈Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduYeeFra)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduYeeFra&theme=tokyonight&count-private=true)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EduYeeFra&theme=merko&mode=weekly)](https://git.io/streak-stats)
 
@@ -39,6 +39,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eyeef/)
 
 <div align = "right">
+  
        <img src="https://komarev.com/ghpvc/?username=EduYeeFra&style=flat-square&color=blue" alt=""/>
 </div>
 
