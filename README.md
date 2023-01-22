@@ -8,9 +8,6 @@
 - I love learning languages...
 
 
-## ⚗️⚛️⚛🧪⚗️🧑‍🔬☣️☣☢️☢🧪⚗️🧑‍🔬☣️☣☢️☢⚛️⚛🧬🧫
-
-
 # 🛠️ Skills
 <p align="center">
   <a href="https://skillicons.dev">
